@@ -1,0 +1,1 @@
+void hello_cmake_call();
