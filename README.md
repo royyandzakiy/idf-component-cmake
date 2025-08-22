@@ -152,3 +152,8 @@ void app_main(void)
 ```
 
 This project demonstrates the flexibility of ESP-IDF's component system while showing the recommended practices for component integration in ESP32 projects.
+
+## References
+
+- IDF CMake Extension & Build System: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/build-system.html
+- CMake Cheatsheet: https://cppcheatsheet.com/notes/cmake_basic.html
