@@ -16,5 +16,11 @@
     "--query-driver=c:\\Users\\royya\\.espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
     "--compile-commands-dir=${workspaceFolder}\\build"
   ],
-  "iis.configDir": ""
+  "iis.configDir": "",
+  "files.associations": {
+    "*.defaults": "kconfig",
+    "hello_component_h.h": "c",
+    "hello_added_component_h.h": "c"
+  },
+  "idf.flashType": "UART"
 }

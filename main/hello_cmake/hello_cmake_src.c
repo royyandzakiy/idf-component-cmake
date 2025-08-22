@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "include/hello_cmake_h.h";
+#include "include/hello_cmake_h.h"
 
 void hello_cmake_call(void)
 {
